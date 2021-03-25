@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... A calculator in C# using SFML
-- 🌱 I’m currently learning ... Autoit, C# and SFML
+- 🔭 I’m currently working on ... A calculator in C# using osu!framework
+- 🌱 I’m currently learning ... Autoit, C# and osu!framework
 - 🤠 I want to make ... An osu! client from competely scratch in C#, because it's a great game
 <!--
 - 👯 I’m looking to collaborate on ... nope

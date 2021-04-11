@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... A calculator in C# using osu!framework
+- 🔭 I’m currently working on ... Random scripts using Autoit, and random osu!framework projects
 - 🌱 I’m currently learning ... Autoit, C# and osu!framework
 - 🤠 I want to make ... An osu! client from competely scratch in C#, because it's a great game
 <!--

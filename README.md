@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Random scripts using Autoit, and random osu!framework projects
-- 🌱 I’m currently learning ... Autoit, C# and osu!framework
-- 🤠 I want to make ... An osu! client from competely scratch in C#, because it's a great game
+- 🔭 I’m currently working on ... Random scripts using Autoit, and random arduino projects
+- 🌱 I’m currently learning ... Autoit, C#, C++ and osu!framework
+- 🤠 I want to make ... 8x8x8 RGB LED cube
 <!--
 - 👯 I’m looking to collaborate on ... nope
 - 🤔 I’m looking for help with ... nope

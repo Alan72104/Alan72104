@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-!(https://github-readme-stats.vercel.app/api?username=alan72104&show_icons=true&theme=onedark)
+![cool](https://github-readme-stats.vercel.app/api?username=alan72104&show_icons=true&theme=onedark)
 
 - 🔭 I’m currently working on ... Random scripts using Autoit, and random arduino projects
 - 🌱 I’m currently learning ... Autoit, C#, C++ and osu!framework

@@ -15,3 +15,5 @@
 - ⚡ Fun fact: ... I also play minecraft and modpacks!
 
 - "I'm not upset that you lied to me, I'm upset that from now on I can't believe you."
+
+- https://codegym.cc/groups/posts/521-why-so-many-wannabe-programmers-fail-6-fatal-learning-traps-and-ways-to-escape-them

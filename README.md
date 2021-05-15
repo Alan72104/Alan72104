@@ -15,4 +15,3 @@
 - ⚡ Fun fact: ... I also play minecraft and modpacks!
 
 - "I'm not upset that you lied to me, I'm upset that from now on I can't believe you."
-\- To anyone of you who's reading this
